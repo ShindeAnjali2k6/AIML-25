@@ -11,3 +11,5 @@ lab-5 (https://github.com/ShindeAnjali2k6/AIML-25/blob/8a08c5c0909d144354c6345d3
 lab-6 (https://github.com/ShindeAnjali2k6/AIML-25/blob/8a08c5c0909d144354c6345d3a76355004872df0/AIML_6.ipynb)
 
 lab-7 (https://github.com/ShindeAnjali2k6/AIML-25/blob/8a08c5c0909d144354c6345d3a76355004872df0/AIML_7.ipynb)
+
+lab-8 (https://github.com/ShindeAnjali2k6/AIML-25/blob/dd1c3261f1cc17e325684515cca1a60c15c21e0b/AIML_8.ipynb)
