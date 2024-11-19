@@ -17,3 +17,5 @@ lab-8 (https://github.com/ShindeAnjali2k6/AIML-25/blob/dd1c3261f1cc17e325684515c
 lab-9 (https://github.com/ShindeAnjali2k6/AIML-25/blob/bafbfe8e49d6f4444b18328cf0cfe1a2299d65f3/AIML_9.ipynb)
 
 lab-10 (https://github.com/ShindeAnjali2k6/AIML-25/blob/6d9a679b98cc8d98cdfd4c06df42fa092145c3ee/AIML_10.ipynb)
+
+lab exam 19/11/24 (https://github.com/ShindeAnjali2k6/AIML-25/blob/16521a67f1ee91ce44d9370ec0565acedb632caa/AIML_LAB_EXAM.ipynb)
